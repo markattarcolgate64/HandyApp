@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Handy App</string>
+    <string name="contactNav">Contacts</string>
+    <string name="stopwatchNav">Stopwatch</string>
+    <string name="alarmNav">Alarm</string>
+    <string name="redialNav">Redial</string>
+    <string name="calendarNav">Calendar</string>
+    <string name="mapNav">Map</string>
+    <string name="resetButton">Reset</string>
+    <string name="startButton">Start</string>
+    <string name="stopButton">Stop</string>
+    <string name="stopwatchString">00:00:00</string>
+
+
+
+
+
+</resources>
